@@ -15,4 +15,4 @@ A simple web app to save and manage links easily. This app allows you to store l
 - **JavaScript** – DOM manipulation & localStorage  
 
 ## 📷 Screenshot
-*(![image](https://github.com/user-attachments/assets/50280d87-4851-48f2-b520-511d4c79f21e))*
+*![image](https://github.com/user-attachments/assets/50280d87-4851-48f2-b520-511d4c79f21e)*
